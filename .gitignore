@@ -1,4 +1,5 @@
 .build*
+.idea
 /packages/
 /Makefile
 /phantom_runner.js
